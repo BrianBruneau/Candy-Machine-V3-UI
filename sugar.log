@@ -1,0 +1,2 @@
+{"v":0,"name":"sugar","msg":"Lend me some sugar, I am your neighbor.","level":30,"hostname":"DESKTOP-DGR2V44","pid":30660,"time":"2023-01-15T22:04:50.650120098Z","target":"sugar","line":115,"file":"src/main.rs"}
+{"v":0,"name":"sugar","msg":"Failed to read keypair file: ./Wallet/.config/solana/Seller.json, No such file or directory (os error 2)","level":50,"hostname":"DESKTOP-DGR2V44","pid":30660,"time":"2023-01-15T22:04:50.748208999Z","target":"sugar_cli::setup","line":53,"file":"src/setup.rs"}
